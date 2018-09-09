@@ -15,7 +15,7 @@
 
 4) перейти в папку проекта
 
-    `cd front-end-basic`
+    `cd front-end-basic-2018-september`
 
 # Обновление репозитория
 
