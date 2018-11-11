@@ -11,11 +11,11 @@
 
 3) выполнить команду 
  
-    `git clone https://github.com/hillel-front-end/front-end-basic-2018-september.git`
+    `git clone https://github.com/hillel-front-end/front-end-basic-2018-november.git`
 
 4) перейти в папку проекта
 
-    `cd front-end-basic-2018-september`
+    `cd front-end-basic-2018-november`
 
 # Обновление репозитория
 
